@@ -1,0 +1,19 @@
+{
+  "name": "wp-mrdave",
+  "version": "1.0.0",
+  "description": "A Wordpress theme for my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmart914/wp-mrdave.git"
+  },
+  "author": "Dave Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmart914/wp-mrdave/issues"
+  },
+  "homepage": "https://github.com/dmart914/wp-mrdave#readme"
+}
